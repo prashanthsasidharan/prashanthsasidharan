@@ -1,4 +1,4 @@
-[![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif)](https://prashtalks.netlify.app/#hero)
+[![MasterHead](https://i.gifer.com/fetch/w300-preview/1a/1a1925b1de116058e74cecebbce92eb6.gif)](https://prashtalks.netlify.app/#hero)
 
 <h1 align="center">Hi 👋, I'm Prashanth Sasidharan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
